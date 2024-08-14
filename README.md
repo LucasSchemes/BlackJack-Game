@@ -1,0 +1,2 @@
+-Jogo de BlackJack, feito em C++ e usando ferramentas do QT Creator.
+-Necessário baixar o arquivo zip para analisar o código e, caso seja interesse, baixar QT para jogar.
